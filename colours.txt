@@ -1,4 +1,6 @@
 a file for colours
 red 
 green
-blue
+blueblue
+red
+green
