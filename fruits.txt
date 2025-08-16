@@ -1,4 +1,5 @@
 apples
 bananas
 cherries
-dragon fruitsfigs
+dragon fruits
+figs
